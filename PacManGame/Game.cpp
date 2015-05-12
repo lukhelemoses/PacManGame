@@ -192,11 +192,4 @@ void Game::DrawFood()
 	al_draw_filled_circle(475, 490, 2, al_map_rgb(0, 255, 0));
 }
 
-void Game::Player()
-{
-
-	
-
-
-}
 
