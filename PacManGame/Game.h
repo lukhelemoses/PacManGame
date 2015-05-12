@@ -12,6 +12,5 @@ public:
 	~Game();
 	void DrawBoard();
 	void DrawFood();
-	void Player();
-};
 
+};
